@@ -1,0 +1,7 @@
+com/juzz/ticketsystem/enums/Priority.class
+com/juzz/ticketsystem/dto/TicketRequest.class
+com/juzz/ticketsystem/TicketSystemApplication.class
+com/juzz/ticketsystem/enums/Status.class
+com/juzz/ticketsystem/controller/TicketController.class
+com/juzz/ticketsystem/model/Ticket.class
+com/juzz/ticketsystem/service/TicketService.class
